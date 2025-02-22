@@ -1,0 +1,20 @@
+{
+    "name": "BricksAndBalls.App",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0bf5ff0b537001e4e87b3d489eb43b6d",
+        "GUID:bbd491af9a97e3c4d8cef5751285467a",
+        "GUID:cc855b4651865964385726f092794825",
+        "GUID:95a053f4773936c47b439a91a4c0c1f8",
+        "GUID:ddd74086e657c4b4b839f9b58bed91a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

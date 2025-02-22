@@ -1,0 +1,139 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8a99af6ef9eb1314b8eb68a795a19a83, type: 3}
+  m_Name: Level0
+  m_EditorClassIdentifier: 
+  gameLevelData:
+    BrickData:
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-90.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-73.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-56.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-39.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-22.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-5.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":12.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":29.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":46.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":63.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":80.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":97.0,"y":0.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":30,"WasHitLastFrame":false,"Color":{"r":0.506576657295227,"g":0.5188679099082947,"b":0.36467602849006655,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-75.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-58.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-41.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-24.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-7.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":10.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":27.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":44.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":61.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":78.0,"y":17.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":25,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-58.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-41.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-24.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-7.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":10.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":27.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":44.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":61.0,"y":34.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":20,"WasHitLastFrame":false,"Color":{"r":0.8980392217636108,"g":0.5137255191802979,"b":0.1921568661928177,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-41.0,"y":51.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":15,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-24.0,"y":51.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":15,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-7.0,"y":51.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":15,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":10.0,"y":51.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":15,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":27.0,"y":51.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":15,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":44.0,"y":51.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":15,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-24.0,"y":68.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":10,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":-7.0,"y":68.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":10,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":10.0,"y":68.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":10,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    - TypeString: BricksAndBalls.GameLogic.Elements.Obstacles.SquareDestroyableObstacle,
+        BricksAndBalls.GameLogic, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null
+      CustomData: '{"Position":{"x":27.0,"y":68.0},"Velocity":{"x":0.0,"y":0.0},"Size":15.0,"NumberOfHitsNeeded":10,"WasHitLastFrame":false,"Color":{"r":0.6324304938316345,"g":0.48282310366630556,"b":0.6603773832321167,"a":1.0}}'
+    BallNumber: 55
+    Tries: 3
+    StartPosition: {x: 0, y: -97}

@@ -1,0 +1,17 @@
+{
+    "name": "BricksAndBalls.DataDrawers",
+    "rootNamespace": "",
+    "references": [
+        "GUID:0bf5ff0b537001e4e87b3d489eb43b6d",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,18 @@
+{
+    "name": "BricksAndBalls.GameLogic",
+    "rootNamespace": "",
+    "references": [
+        "GUID:6102f97eb2539fd4e81fe0f0d3ba04ed",
+        "GUID:0bf5ff0b537001e4e87b3d489eb43b6d",
+        "GUID:ddd74086e657c4b4b839f9b58bed91a7"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
