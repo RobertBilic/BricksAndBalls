@@ -42,9 +42,9 @@ It serves as a **technical showcase** of how to build maintainable and testable 
 - Score increases with each successful hit
 - Point multiplier after using up all the balls
 
---
+---
 
--## 🧪 Requirements
+## 🧪 Requirements
 
 - **Unity 2022 LTS or later**
 - No additional packages required
